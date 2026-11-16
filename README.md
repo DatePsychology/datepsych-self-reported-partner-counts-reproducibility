@@ -2,7 +2,6 @@
 
 **Companion article:** [Can We Trust Self-Reported Sexual Partner Counts?](https://datepsych.substack.com/p/can-we-trust-self-reported-sexual) — *What Date Psychology Gets Right—and Wrong About the Evidence* (Revisiting Datepsych, 10 November 2026).
 
-**Important:** This is the reproducibility repository for the **broader self-report and survey-accuracy critique**, **not** the distinct article [Can a Fake Lie Detector Reveal the Truth About Sexual Partner Counts?](https://datepsych.substack.com/p/can-a-fake-lie-detector-reveal-the). The latter has a separate bogus-pipeline-only package.
 
 The article reviews Date Psychology's [“Is Self Reported Sexual Partner Data Accurate?”](https://datepsychology.com/is-self-reported-sexual-partner-data-accurate/) (2022; subsequently updated). This repository records published summary statistics, reproduces the **nine figures** accompanying the broader critique, and recalculates several numerical claims: Morris's ratio of totals versus ratio of subgroup means; unequal trimming of male and female respondents; numerical heaping; the association between survey mode and reported means; prospective and longitudinal consistency; the 2013 experimental contrast; and the Natsal-3 adjustment sequence.
 
