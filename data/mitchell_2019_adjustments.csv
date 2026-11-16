@@ -1,0 +1,5 @@
+stage,difference_men_minus_women,ci95_lower,ci95_upper,source_location,note
+Original lifetime gap,7.02,4.97,9.08,Mitchell et al. (2019) Table 1,Original male mean 14.14 and female mean 7.12
+Cap at 99th percentile,5.47,4.92,6.01,Mitchell et al. (2019) Table 1,Descriptive 99th percentile cap by sex
++ counting/estimating,3.24,2.81,3.68,Mitchell et al. (2019) Table 1,Model adjustment after capping; not causal
++ sexual attitudes,2.63,2.22,3.04,Mitchell et al. (2019) Table 1,Model adjusted for both counting and attitudes after capping

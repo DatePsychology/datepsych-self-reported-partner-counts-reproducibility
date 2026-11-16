@@ -1,0 +1,7 @@
+condition,sex,reported_partner_mean,source_location,note
+Exposure threat,Men,3.7,Alexander & Fisher (2003) study values summarized in companion article,Rounded means; not participant-level data
+Exposure threat,Women,2.6,Alexander & Fisher (2003) study values summarized in companion article,Rounded means; not participant-level data
+Anonymous,Men,4.2,Alexander & Fisher (2003) study values summarized in companion article,Rounded means; not participant-level data
+Anonymous,Women,3.4,Alexander & Fisher (2003) study values summarized in companion article,Rounded means; not participant-level data
+Bogus pipeline,Men,4.0,Alexander & Fisher (2003) study values summarized in companion article,Rounded means; not participant-level data
+Bogus pipeline,Women,4.4,Alexander & Fisher (2003) study values summarized in companion article,Rounded means; not participant-level data

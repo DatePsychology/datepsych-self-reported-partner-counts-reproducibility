@@ -1,0 +1,5 @@
+condition,sex,reported_partner_mean,source_location,note
+No bogus pipeline,Men,2.85,Fisher (2013) summary table; article Figure 6,Sex×condition interaction from published model p=.033
+No bogus pipeline,Women,2.7,Fisher (2013) summary table; article Figure 6,Sex×condition interaction from published model p=.033
+Bogus pipeline,Men,1.96,Fisher (2013) summary table; article Figure 6,Not a causal measure of truthfulness
+Bogus pipeline,Women,3.35,Fisher (2013) summary table; article Figure 6,Not a causal measure of truthfulness

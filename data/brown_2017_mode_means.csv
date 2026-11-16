@@ -1,0 +1,5 @@
+mode,sex,mean_lifetime_partners,total_mode_sample_n,source_location,note
+Telephone,Men,15.4,1393,"Brown et al. (2017), pp. 52–53","Nonrandomized mode samples; n is sample-wide, not sex-specific"
+Telephone,Women,5.4,1393,"Brown et al. (2017), pp. 52–53","Nonrandomized mode samples; n is sample-wide, not sex-specific"
+Web,Men,15.0,1675,"Brown et al. (2017), pp. 52–53","Nonrandomized mode samples; n is sample-wide, not sex-specific"
+Web,Women,8.5,1675,"Brown et al. (2017), pp. 52–53","Nonrandomized mode samples; n is sample-wide, not sex-specific"

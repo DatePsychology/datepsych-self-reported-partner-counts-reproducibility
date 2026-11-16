@@ -1,0 +1,5 @@
+window_months,exact_agreement_pct,within_one_partner_pct,mean_absolute_error_if_reported,source_location,note
+1,52.6,94.7,,Jaccard et al. (2004) Tables 2–3,Multiple-partner subgroup; exact matches reconstructed in companion article
+3,51.5,90.9,,Jaccard et al. (2004) Tables 2–3,Multiple-partner subgroup
+6,40.9,86.4,,Jaccard et al. (2004) Tables 2–3,Multiple-partner subgroup
+12,49.4,81.9,,Jaccard et al. (2004) Tables 2–3,Multiple-partner subgroup

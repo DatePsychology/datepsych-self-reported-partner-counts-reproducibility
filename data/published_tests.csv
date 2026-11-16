@@ -1,0 +1,5 @@
+study,test,f_value,df_numerator,df_denominator,reported_p,source_location,interpretation
+Alexander & Fisher 2003,Sex-by-condition for partner number,,,,F < 1,Alexander & Fisher (2003) reported as F < 1,Only F < 1 reported; unique F statistic and p cannot be reconstructed
+Fisher 2013,Sex-by-condition interaction,4.57,1,284,0.033,"Fisher (2013) reported F(1,284)=4.57",Significant interaction; rounded inputs
+Fisher 2013,Sex contrast within bogus pipeline,6.94,1,284,0.009,"Fisher (2013) reported F(1,284)=6.94",Different estimand from interaction; not conflated
+Turchik & Garske 2009,Sex-by-administration-method interaction,6.25,1,62,<0.05,"Turchik & Garske (2009) reported F(1,62)=6.25",Composite sexual risk score; not lifetime partner accuracy

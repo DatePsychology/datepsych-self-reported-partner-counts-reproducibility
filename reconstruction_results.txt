@@ -1,0 +1,33 @@
+Can We Trust Self-Reported Sexual Partner Counts? — Reproducibility results
+=========================================================================
+Published rounded summaries ONLY. Not individual-level replication.
+
+morris_retained_men                                  80.603193 %
+morris_retained_women                                97.127371 %
+morris_retained_combined                             89.225113 %
+morris_under20_total_ratio                            1.189189 ratio
+morris_under20_male_mean                              4.293470 partners/person
+morris_under20_female_mean                            2.746094 partners/person
+morris_under20_mean_ratio                             1.563483 ratio
+morris_excess_over_parity_all                       222.000000 %
+morris_excess_over_parity_under20                    19.000000 %
+wiederman_heaping_men                                85.840708 %
+wiederman_heaping_women                              82.812500 %
+brown_1999_rough_estimate_count_men                  24.990000 approximate persons
+brown_1999_rough_estimate_count_women                 3.960000 approximate persons
+brown_2017_ratio_telephone                            2.851852 ratio
+brown_2017_ratio_web                                  1.764706 ratio
+mitchell_excess_past_year                            22.115385 %
+mitchell_excess_past_5_years                         44.565217 %
+mitchell_excess_lifetime                             98.595506 %
+mitchell_gap_reduction                               62.535613 %
+fisher_2013_diff_in_diffs                             1.540000 partners
+pcheck_Fisher_2013_284_457                            0.033390 p (unrounded)
+pcheck_Fisher_2013_284_694                            0.008891 p (unrounded)
+pcheck_Turchik_and_Garske_2009_62_625                 0.015079 p (unrounded)
+
+Cautions: Morris 1.19 is total-partnership ratio, not mean ratio.
+The 2003 study reports F < 1, so an exact p cannot be reconstructed.
+The Mitchell adjusted gap is not a causal estimate of dishonesty.
+No true lifetime histories, raw participant observations, or trial randomization
+records are available in these inputs. Figures show reported summaries.

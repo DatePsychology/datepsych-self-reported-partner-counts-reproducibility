@@ -1,0 +1,24 @@
+check_id,value,unit,formula,provenance
+morris_retained_men,80.60319337670018,%,100*1363/1691,Morris 1993 Table 2
+morris_retained_women,97.12737127371274,%,100*1792/1845,Morris 1993 Table 2
+morris_retained_combined,89.22511312217195,%,100*(1363+1792)/(1691+1845),Morris 1993 Table 2
+morris_under20_total_ratio,1.1891891891891893,ratio,5852/4921,Morris 1993 Table 2
+morris_under20_male_mean,4.2934702861335285,partners/person,5852/1363,Morris 1993 Table 2
+morris_under20_female_mean,2.74609375,partners/person,4921/1792,Morris 1993 Table 2
+morris_under20_mean_ratio,1.563482778449763,ratio,male selected mean / female selected mean,Morris 1993 Table 2
+morris_excess_over_parity_all,222.00000000000003,%,100*(3.22 - 1),Morris 1993 Table 2
+morris_excess_over_parity_under20,18.999999999999993,%,100*(1.19 - 1),Morris 1993 Table 2
+wiederman_heaping_men,85.84070796460178,%,100*194/226,Wiederman 1997 GSS subgroup
+wiederman_heaping_women,82.8125,%,100*53/64,Wiederman 1997 GSS subgroup
+brown_1999_rough_estimate_count_men,24.99,approximate persons,subgroup size * published percent /100,Brown & Sinclair 1999
+brown_1999_rough_estimate_count_women,3.9600000000000004,approximate persons,subgroup size * published percent /100,Brown & Sinclair 1999
+brown_2017_ratio_telephone,2.8518518518518516,ratio,male mean / female mean,Brown et al 2017
+brown_2017_ratio_web,1.7647058823529411,ratio,male mean / female mean,Brown et al 2017
+mitchell_excess_past_year,22.115384615384603,%,100*(male mean/female mean - 1),Mitchell 2019 Table 1
+mitchell_excess_past_5_years,44.565217391304344,%,100*(male mean/female mean - 1),Mitchell 2019 Table 1
+mitchell_excess_lifetime,98.59550561797754,%,100*(male mean/female mean - 1),Mitchell 2019 Table 1
+mitchell_gap_reduction,62.53561253561253,%,(original gap - final gap)/original gap *100,Mitchell 2019 Table 1
+fisher_2013_diff_in_diffs,1.54,partners,(women pipeline - women control) - (men pipeline - men control),Fisher 2013 published rounded cell means
+pcheck_Fisher_2013_284_457,0.03339026262060551,p (unrounded),"F survival function, F=4.57, df=1,284","Fisher (2013) reported F(1,284)=4.57"
+pcheck_Fisher_2013_284_694,0.008891333602229858,p (unrounded),"F survival function, F=6.94, df=1,284","Fisher (2013) reported F(1,284)=6.94"
+pcheck_Turchik_and_Garske_2009_62_625,0.015078890454858825,p (unrounded),"F survival function, F=6.25, df=1,62","Turchik & Garske (2009) reported F(1,62)=6.25"
